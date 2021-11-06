@@ -7,7 +7,7 @@ import { Favorites } from "../favorites/Favorites";
 export const AppWrapper = () => {
   return (
     <div className="app_wrapper">
-      <Router>
+      <Router basename="http://DevAv1.github.io/abra_project">
         <Header />
         <Switch>
           <Route exact path="/" component={Home} />
