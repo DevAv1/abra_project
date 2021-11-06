@@ -1,0 +1,10 @@
+.searchWeather {
+  & .search-wrapper {
+    display: flex;
+    align-items: center;
+    position: relative;
+
+    & .search-icon {
+    }
+  }
+}

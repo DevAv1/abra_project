@@ -1,0 +1,46 @@
+{
+  "Headline": {
+    "EffectiveDate": "2021-11-07T07:00:00+02:00",
+    "EffectiveEpochDate": 1636261200,
+    "Severity": 4,
+    "Text": "Pleasant Sunday",
+    "Category": "mild",
+    "EndDate": null,
+    "EndEpochDate": null,
+    "MobileLink": "http://www.accuweather.com/en/il/tel-aviv-port/215793/daily-weather-forecast/215793?lang=en-us",
+    "Link": "http://www.accuweather.com/en/il/tel-aviv-port/215793/daily-weather-forecast/215793?lang=en-us"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2021-11-05T07:00:00+02:00",
+      "EpochDate": 1636088400,
+      "Temperature": {
+        "Minimum": {
+          "Value": 70,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 86,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 1,
+        "IconPhrase": "Sunny",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 33,
+        "IconPhrase": "Clear",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/il/tel-aviv-port/215793/daily-weather-forecast/215793?day=1&lang=en-us",
+      "Link": "http://www.accuweather.com/en/il/tel-aviv-port/215793/daily-weather-forecast/215793?day=1&lang=en-us"
+    }
+  ]
+}
