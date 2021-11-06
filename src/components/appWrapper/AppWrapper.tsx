@@ -10,8 +10,8 @@ export const AppWrapper = () => {
       <Router>
         <Header />
         <Switch>
-          <Route exact path="abra_project/" component={Home} />
-          <Route exact path="abra_project/favorites" component={Favorites} />
+          <Route exact path="/" component={Home} />
+          <Route exact path="/favorites" component={Favorites} />
         </Switch>
       </Router>
     </div>
